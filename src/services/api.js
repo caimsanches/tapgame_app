@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const Api = axios.create({
-    baseURL: 'http://localhost:3001',
+    baseURL: 'https://secret-fortress-78481.herokuapp.com/',
     headers: {
         'Content-Type': 'application/json'
     },
