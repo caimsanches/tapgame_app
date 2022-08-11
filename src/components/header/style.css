@@ -1,21 +1,14 @@
 
 .header {
-<<<<<<< HEAD
     height: 100px;
     width: 100vw;
     background-color: transparent;
-=======
-    height: 80px;
-    width: 100vw;
-    background-color: rgba(0, 0, 0, 0.7);
->>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
     position: fixed;
     top: 0;
 }
 
 nav {
     height: 100%;
-<<<<<<< HEAD
     display: flex;
 }
 
@@ -56,9 +49,6 @@ nav .nav-right {
     text-align: center;
     text-transform: uppercase;
     font-size: 30px;
-=======
-
->>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
 }
 
 nav ul {
