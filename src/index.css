@@ -8,10 +8,6 @@
      font-family: 'Reggae One', cursive, 'Courier New';
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
 .btn {
      margin-top: 24px;
      text-decoration: none;
@@ -20,11 +16,7 @@
      font-weight: 700;
      letter-spacing: 2px;
      text-transform: uppercase;
-<<<<<<< HEAD
      background-color: rgb(247,189,35);
-=======
-     background-color: salmon;
->>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
      padding: 12px;
      border-radius: 8px;
      cursor: pointer;
