@@ -1,6 +1,7 @@
 import React from 'react';
 import Signin from '../signin';
 import './style.css';
+<<<<<<< HEAD
 import tapGameImg from '../../assets/images/tapgame.png';
 function Header(props) {
     const marcas = "marcas";
@@ -35,6 +36,13 @@ function Header(props) {
 
 
                 {/*
+=======
+
+function Header(props) {
+    return (
+        <div class="header">
+            <nav>
+>>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
                 <ul>
                     <li>
                         <button class="btn" onClick={()=>props.onClickSignin()}>signin</button>
@@ -47,8 +55,13 @@ function Header(props) {
                             <Signin />
                         }
                     </div>
+<<<<<<< HEAD
                 </ul>         
             */}
+=======
+                </ul>
+
+>>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
             </nav>
 
         </div>

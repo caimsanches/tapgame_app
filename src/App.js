@@ -1,6 +1,12 @@
 import { useState } from 'react';
+<<<<<<< HEAD
 import './styleresponsive.css';
 import Banner from './components/banner';
+=======
+import './App.css';
+import Banner from './components/banner';
+import Footer from './components/footer';
+>>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
 import Header from './components/header'; 
 
 function App() {
@@ -21,12 +27,19 @@ function App() {
         onClickSignup={handleSignup}
         openSignin={openSignin}
         />
+<<<<<<< HEAD
   
       <Banner 
         openSignup={openSignup} 
         onClickCancel={handleSignup} />
      
      {/*<Footer />*/}
+=======
+      <Banner 
+        openSignup={openSignup} 
+        onClickCancel={handleSignup} />
+      <Footer />
+>>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
     </>
   );
 }

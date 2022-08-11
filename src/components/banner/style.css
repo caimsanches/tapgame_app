@@ -1,5 +1,9 @@
 .banner {
+<<<<<<< HEAD
     background-image: url('../../assets/images/bannerbg.png');
+=======
+    background-image: url('../../assets/images/bannerbg.jpg');
+>>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
     background-position: center;
     background-size: cover;
     height: 100vh;

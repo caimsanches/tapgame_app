@@ -18,7 +18,11 @@
 
 .description-content {
     width: 310px;
+<<<<<<< HEAD
     background-color: rgba(0, 74, 141, 0.7);
+=======
+    background-color: rgba(0, 0, 0, 0.7);
+>>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
     padding: 16px;
     border-radius: 10px;
     font-size: 24px;
@@ -41,7 +45,11 @@
     font-weight: 700;
     letter-spacing: 2px;
     text-transform: uppercase;
+<<<<<<< HEAD
     background-color: rgb(247,189,35);
+=======
+    background-color: salmon;
+>>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
     padding: 12px;
     border-radius: 8px;
 }

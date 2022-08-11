@@ -2,17 +2,27 @@
 .ranking-item, .meu-ranking-conquista {
     display: flex;
     width: 100%;
+<<<<<<< HEAD
     border: 1px solid rgb(0, 74, 141);
+=======
+    border: 1px solid #000;
+>>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
     padding: 6px;
     margin-bottom: 6px;
 }
 
 .item-avatar, .meu-conquistas-img {
+<<<<<<< HEAD
     height: 60px;
     width: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
+=======
+    height: 40px;
+    width: 40px;
+    border: 1px solid #000;
+>>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
 }
 
 .item-avatar img,
@@ -23,6 +33,7 @@
 
 .item-content {
     flex: 1;
+<<<<<<< HEAD
     height: 60px;
     margin-left: 8px;
     display: flex;
@@ -40,6 +51,18 @@
     color: rgb(247,189,35);
     flex:1;
     font-size: 32px;
+=======
+    height: 40px;
+    margin-left: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.item-score {
+    color: salmon;
+    flex:1;
+
+>>>>>>> ec6cd92be863b1b69b38e0230955b4bf2567dd26
 }
 
 .item-conquistas {
